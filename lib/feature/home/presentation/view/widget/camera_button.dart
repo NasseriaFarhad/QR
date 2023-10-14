@@ -1,9 +1,7 @@
 import 'dart:io';
-
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../../../../../config/color_pallet/color_pallet.dart';
 import '../../controller/home_controller.dart';
 
